@@ -15,7 +15,7 @@ Se buscará desarrollar **casos experimentales** utilizando Sistemas Operativos 
 
 ---
 
-### 📋 CONTENIDOS MÍNIMOS
+### CONTENIDOS MÍNIMOS
 
 El curso se estructura alrededor de los siguientes pilares de estudio:
 
