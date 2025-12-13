@@ -1,10 +1,10 @@
-#  Introducción a los Sistemas Operativos
+# 📚 Introducción a los Sistemas Operativos
 
 ## Conceptos Fundamentales de Sistemas Operativos
 
 ---
 
-###  OBJETIVOS GENERALES DEL CURSO
+### 🎯 OBJETIVOS GENERALES DEL CURSO
 
 El objetivo principal de este curso es proporcionar los **conceptos fundamentales** de los Sistemas Operativos (SO) desde una doble perspectiva:
 
@@ -15,7 +15,7 @@ Se buscará desarrollar **casos experimentales** utilizando Sistemas Operativos 
 
 ---
 
-###  CONTENIDOS MÍNIMOS
+### 📋 CONTENIDOS MÍNIMOS
 
 El curso se estructura alrededor de los siguientes pilares de estudio:
 
@@ -38,7 +38,7 @@ El curso se estructura alrededor de los siguientes pilares de estudio:
 
 ---
 
-###  BIBLIOGRAFÍA RECOMENDADA
+### 📖 BIBLIOGRAFÍA RECOMENDADA
 
 Para la profundización de los temas, se recomienda la consulta de las siguientes obras:
 
